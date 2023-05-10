@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/ob/.local/share/virtualenvs/django-ecommerce-ytc0r9Js/bin/python"
+    "python.pythonPath": "/home/ob/.local/share/virtualenvs/django-ecommerce-ytc0r9Js/bin/activate",
+    "python.defaultInterpreterPath": "/home/ob/.local/share/virtualenvs/django-ecommerce-ytc0r9Js/bin/activate",
 }

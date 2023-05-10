@@ -1,9 +1,11 @@
-# dotenv environmental variables
-*.env
+.env
 
-*.cpython-310.pyc
+*.cpython*
+
+*__*
+
+*000*
 
 package-lock.json
-
 
 */node_modules/
